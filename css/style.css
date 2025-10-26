@@ -56,13 +56,13 @@ section {
 }
 
 .member {
-  width: 150px;
+  width: 130px; /* уменьшили с 150px */
   text-align: center;
 }
 
 .member img {
-  width: 150px;
-  height: 150px;
+  width: 130px; /* уменьшили */
+  height: 130px;
   object-fit: cover;
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0,0,0,0.2);
